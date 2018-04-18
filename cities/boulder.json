@@ -3,15 +3,15 @@
     "state":    "CO",
     "high":     {
         "avg":  18.5,
-        "std":  4.5
+        "std":  5.5
     },
     "low":      {
         "avg":  3.3,
-        "std":  4.5
+        "std":  5.5
     },
     "precip":   {
-        "yamt": 525.0,
+        "yamt": 425.0,
         "std":  10.0,
-        "days": 65.0
+        "days": 45.0
     }
 }
