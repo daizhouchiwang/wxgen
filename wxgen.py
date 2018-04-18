@@ -15,7 +15,7 @@ from datetime import datetime
 # User settings
 city_list   = ["boulder","philadelphia"]
 fcst_path   = "forecasts/{}.txt"
-num_days    = 7
+num_days    = 10
 
 #
 ## FUNCTION DEFINITIONS
